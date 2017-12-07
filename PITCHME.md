@@ -170,7 +170,7 @@ Customer tests -
 ### XP values, principle and practices
 
 
-<img src="./pics/xp-bridge.png" width="750"/>
+<img src="./pics/xpbridge.png" width="750"/>
 <img src="./pics/values.png" width="200"/>
 <img src="./pics/principles.png" width="200"/>
 <img src="./pics/practices3.png" width="200"/>
