@@ -20,7 +20,7 @@ Traditionally Allstate used waterfall development methodology to delivery softwa
 
 ### Compozed XP Agile team structure
 
-<img src="./pics/team.png" width="200">
+<img src="./pics/team.png">
 
 Note: Compozed has labs across the world.  In each lab multiple teams operate.  Every team is cross functional, comprising a product manager, developers and designer.
 
@@ -49,7 +49,7 @@ To make sense of what can feel like a complicated jigsaw, let us look at the val
 ### XP values, principle and practices
 
 
-<img src="./pics/xpbridge.png" width="500"/>
+<img src="./pics/xpbridge.png" width="750"/>
 
 
 Note: 
@@ -92,7 +92,7 @@ Respect the team by celebrating sucess and giving honest and kind feedback, resp
 
 - Respect 
 
-<img src="./pics/values.png" alt="github"/>
+<img src="./pics/values.png" width="500"/>
 
 ---
 ### XP Principles
@@ -127,13 +127,13 @@ Humanity - empathy
 - Accept responsibility 
 
 
-<img src="./pics/principles.png" alt="github"/>
+<img src="./pics/principles.png" width="500"/>
 
 ---
 
 ### XP Practices
 
-<img src="./pics/practices1.png" alt="github"/>
+<img src="./pics/practices1.png" />
 
 Note:
 Paired programming - all production code produced by a pair, one has control and codes, the other has big picture and reviews; trade roles;two eyes better than one
@@ -145,7 +145,7 @@ Keep design and code simple
 
 ### XP Practices
 
-<img src="./pics/practices2.png" alt="github"/>
+<img src="./pics/practices2.png" />
 
 Note:
 Continous integration - team working on latest version of code, changes and improvements merged into the repository every few hours
@@ -157,7 +157,7 @@ Sustainable pace - developers work best when rested, should not work overtime, t
 
 ### XP Practices
 
-<img src="./pics/practices3.png" alt="github"/>
+<img src="./pics/practices3.png" />
 
 Note:
 Planning or IPM - meeting once a week to plan release (what to deliver when) and iteration (developer activities)
@@ -170,10 +170,10 @@ Customer tests -
 ### XP values, principle and practices
 
 
-<img src="./pics/xp-bridge.png" width="500"/>
-<img src="./pics/values.png" alt="github"/>
-<img src="./pics/principles.png" alt="github"/>
-<img src="./pics/practices3.png" alt="github"/>
+<img src="./pics/xp-bridge.png" width="750"/>
+<img src="./pics/values.png" width="200"/>
+<img src="./pics/principles.png" width="200"/>
+<img src="./pics/practices3.png" width="200"/>
 
 
 ---
